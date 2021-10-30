@@ -1,0 +1,36 @@
+@* @using Microsoft.JSInterop *@
+@inject  IJSRuntime  JSRuntime
+@inject IJSRuntime js
+@inject IServiceMovie movie_i
+@inject IErrorMessage showMessage
+@using System.Threading.Tasks
+
+
+
+<div style="display: flex; flex-wrap: wrap; align-items: center;">
+    <GenericList Listado="Movies">
+        <HayRegistros Context="movie">
+            <MovieInd Movie="movie" DeleteMovie="DeleteMovie" />
+        </HayRegistros>
+    </GenericList>
+</div>
+
+@code {
+    [Parameter] public List<Movie>Movies { get; set; }
+
+    async Task DeleteMovie(Movie movie)
+    {
+        @* var confirmar = await js.Confirm($"¿Desea borrar la película {movie.Moviename}?"); *@
+        var confirmar= await JSRuntime.InvokeAsync<bool>("confirm", $"Desea borrar la película '{movie.Moviename}'?");
+        if (confirmar)
+        {
+            var responseHttp = await movie_i.Delete($"api/movies/{movie.id}");
+            if (responseHttp.Error)
+            {
+                await showMessage.ShowErrorMessage(await responseHttp.GetBody());
+            }else{
+                Movies.Remove(movie);
+            }
+        }
+    }   
+}

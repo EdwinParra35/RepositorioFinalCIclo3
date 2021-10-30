@@ -1,0 +1,11 @@
+﻿@using MovieProject.Client.Pages.Components 
+<Router AppAssembly="@typeof(Program).Assembly" PreferExactMatches="@true">
+    <Found Context="routeData">
+        <RouteView RouteData="@routeData" DefaultLayout="@typeof(MainLayout)" />
+    </Found>
+    <NotFound>
+        <LayoutView Layout="@typeof(MainLayout)">
+            <CustonNotFound></CustonNotFound>
+        </LayoutView>
+    </NotFound>
+</Router>

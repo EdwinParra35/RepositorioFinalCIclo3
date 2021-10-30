@@ -1,0 +1,358 @@
+C:\ProysCicloIII\MovieProject\Server\bin\Debug\net5.0\MovieProject.Client.StaticWebAssets.xml
+C:\ProysCicloIII\MovieProject\Server\bin\Debug\net5.0\appsettings.Development.json
+C:\ProysCicloIII\MovieProject\Server\bin\Debug\net5.0\appsettings.json
+C:\ProysCicloIII\MovieProject\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\ProysCicloIII\MovieProject\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\ProysCicloIII\MovieProject\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\ProysCicloIII\MovieProject\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\ProysCicloIII\MovieProject\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\ProysCicloIII\MovieProject\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.dll
+C:\ProysCicloIII\MovieProject\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+C:\ProysCicloIII\MovieProject\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+C:\ProysCicloIII\MovieProject\Server\bin\Debug\net5.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\ProysCicloIII\MovieProject\Server\bin\Debug\net5.0\MovieProject.Server.StaticWebAssets.xml
+C:\ProysCicloIII\MovieProject\Server\bin\Debug\net5.0\MovieProject.Server.exe
+C:\ProysCicloIII\MovieProject\Server\bin\Debug\net5.0\MovieProject.Server.deps.json
+C:\ProysCicloIII\MovieProject\Server\bin\Debug\net5.0\MovieProject.Server.runtimeconfig.json
+C:\ProysCicloIII\MovieProject\Server\bin\Debug\net5.0\MovieProject.Server.runtimeconfig.dev.json
+C:\ProysCicloIII\MovieProject\Server\bin\Debug\net5.0\MovieProject.Server.dll
+C:\ProysCicloIII\MovieProject\Server\bin\Debug\net5.0\ref\MovieProject.Server.dll
+C:\ProysCicloIII\MovieProject\Server\bin\Debug\net5.0\MovieProject.Server.pdb
+C:\ProysCicloIII\MovieProject\Server\bin\Debug\net5.0\MovieProject.Server.Views.dll
+C:\ProysCicloIII\MovieProject\Server\bin\Debug\net5.0\MovieProject.Server.Views.pdb
+C:\ProysCicloIII\MovieProject\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+C:\ProysCicloIII\MovieProject\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
+C:\ProysCicloIII\MovieProject\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\ProysCicloIII\MovieProject\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Web.dll
+C:\ProysCicloIII\MovieProject\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\ProysCicloIII\MovieProject\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\ProysCicloIII\MovieProject\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+C:\ProysCicloIII\MovieProject\Server\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\ProysCicloIII\MovieProject\Server\bin\Debug\net5.0\Microsoft.JSInterop.dll
+C:\ProysCicloIII\MovieProject\Server\bin\Debug\net5.0\Microsoft.JSInterop.WebAssembly.dll
+C:\ProysCicloIII\MovieProject\Server\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\ProysCicloIII\MovieProject\Server\bin\Debug\net5.0\MovieProject.Client.dll
+C:\ProysCicloIII\MovieProject\Server\bin\Debug\net5.0\MovieProject.Shared.dll
+C:\ProysCicloIII\MovieProject\Server\bin\Debug\net5.0\MovieProject.Client.pdb
+C:\ProysCicloIII\MovieProject\Server\bin\Debug\net5.0\MovieProject.Shared.pdb
+C:\ProysCicloIII\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.csproj.AssemblyReference.cache
+C:\ProysCicloIII\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProysCicloIII\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.AssemblyInfoInputs.cache
+C:\ProysCicloIII\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.AssemblyInfo.cs
+C:\ProysCicloIII\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.csproj.CoreCompileInputs.cache
+C:\ProysCicloIII\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\ProysCicloIII\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.RazorAssemblyInfo.cache
+C:\ProysCicloIII\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.RazorAssemblyInfo.cs
+C:\ProysCicloIII\MovieProject\Server\obj\Debug\net5.0\staticwebassets\MovieProject.Server.StaticWebAssets.Manifest.cache
+C:\ProysCicloIII\MovieProject\Server\obj\Debug\net5.0\staticwebassets\MovieProject.Server.StaticWebAssets.xml
+C:\ProysCicloIII\MovieProject\Server\obj\Debug\net5.0\scopedcss\bundle\MovieProject.Server.styles.css
+C:\ProysCicloIII\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.TagHelpers.input.cache
+C:\ProysCicloIII\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.TagHelpers.output.cache
+C:\ProysCicloIII\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.RazorCoreGenerate.cache
+C:\ProysCicloIII\MovieProject\Server\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\ProysCicloIII\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.RazorTargetAssemblyInfo.cache
+C:\ProysCicloIII\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.RazorTargetAssemblyInfo.cs
+C:\ProysCicloIII\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.Views.pdb
+C:\ProysCicloIII\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.csproj.CopyComplete
+C:\ProysCicloIII\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.dll
+C:\ProysCicloIII\MovieProject\Server\obj\Debug\net5.0\ref\MovieProject.Server.dll
+C:\ProysCicloIII\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.pdb
+C:\ProysCicloIII\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.genruntimeconfig.cache
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.csproj.AssemblyReference.cache
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.AssemblyInfoInputs.cache
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.AssemblyInfo.cs
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.csproj.CoreCompileInputs.cache
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.RazorAssemblyInfo.cache
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.RazorAssemblyInfo.cs
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\obj\Debug\net5.0\ref\MovieProject.Server.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.pdb
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\appsettings.json
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\MovieProject.Client.StaticWebAssets.xml
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\appsettings.Development.json
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\MovieProject.Server.StaticWebAssets.xml
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\MovieProject.Server.exe
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\MovieProject.Server.deps.json
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\MovieProject.Server.runtimeconfig.json
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\MovieProject.Server.runtimeconfig.dev.json
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\MovieProject.Server.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\ref\MovieProject.Server.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\MovieProject.Server.pdb
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\MovieProject.Server.Views.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\MovieProject.Server.Views.pdb
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\Humanizer.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Web.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\Microsoft.JSInterop.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\Microsoft.JSInterop.WebAssembly.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\MovieProject.Client.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\MovieProject.Shared.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\MovieProject.Client.pdb
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\MovieProject.Shared.pdb
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\obj\Debug\net5.0\staticwebassets\MovieProject.Server.StaticWebAssets.Manifest.cache
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\obj\Debug\net5.0\staticwebassets\MovieProject.Server.StaticWebAssets.xml
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\obj\Debug\net5.0\scopedcss\bundle\MovieProject.Server.styles.css
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.TagHelpers.input.cache
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.TagHelpers.output.cache
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.RazorCoreGenerate.cache
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.RazorTargetAssemblyInfo.cache
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.RazorTargetAssemblyInfo.cs
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.Views.pdb
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.csproj.CopyComplete
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.genruntimeconfig.cache
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\Azure.Core.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\Azure.Storage.Blobs.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\Azure.Storage.Common.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Server\bin\Debug\net5.0\System.Memory.Data.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\appsettings.Development.json
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\appsettings.json
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\MovieProject.Client.StaticWebAssets.xml
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\MovieProject.Server.StaticWebAssets.xml
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\MovieProject.Server.exe
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\MovieProject.Server.deps.json
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\MovieProject.Server.runtimeconfig.json
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\MovieProject.Server.runtimeconfig.dev.json
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\MovieProject.Server.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\ref\MovieProject.Server.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\MovieProject.Server.pdb
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\MovieProject.Server.Views.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\MovieProject.Server.Views.pdb
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Azure.Core.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Azure.Storage.Blobs.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Azure.Storage.Common.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Humanizer.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Web.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Microsoft.JSInterop.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Microsoft.JSInterop.WebAssembly.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\System.Memory.Data.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\MovieProject.Client.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\MovieProject.Shared.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\MovieProject.Client.pdb
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\MovieProject.Shared.pdb
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.csproj.AssemblyReference.cache
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.AssemblyInfoInputs.cache
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.AssemblyInfo.cs
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.csproj.CoreCompileInputs.cache
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.RazorAssemblyInfo.cache
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.RazorAssemblyInfo.cs
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\obj\Debug\net5.0\staticwebassets\MovieProject.Server.StaticWebAssets.Manifest.cache
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\obj\Debug\net5.0\staticwebassets\MovieProject.Server.StaticWebAssets.xml
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\obj\Debug\net5.0\scopedcss\bundle\MovieProject.Server.styles.css
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.TagHelpers.input.cache
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.TagHelpers.output.cache
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.RazorCoreGenerate.cache
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.RazorTargetAssemblyInfo.cache
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.RazorTargetAssemblyInfo.cs
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.Views.pdb
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.csproj.CopyComplete
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\obj\Debug\net5.0\ref\MovieProject.Server.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.pdb
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.genruntimeconfig.cache
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\AutoMapper.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\obj\Debug\net5.0\ref\MovieProject.Server.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.pdb
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.csproj.AssemblyReference.cache
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.GeneratedMSBuildEditorConfig.editorconfig
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.AssemblyInfoInputs.cache
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.AssemblyInfo.cs
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.csproj.CoreCompileInputs.cache
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.MvcApplicationPartsAssemblyInfo.cache
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.RazorAssemblyInfo.cache
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.RazorAssemblyInfo.cs
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\appsettings.Development.json
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\appsettings.json
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugProxy.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\BlazorDebugProxy\Newtonsoft.Json.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\MovieProject.Client.StaticWebAssets.xml
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\MovieProject.Server.StaticWebAssets.xml
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\MovieProject.Server.exe
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\MovieProject.Server.deps.json
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\MovieProject.Server.runtimeconfig.json
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\MovieProject.Server.runtimeconfig.dev.json
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\MovieProject.Server.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\ref\MovieProject.Server.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\MovieProject.Server.pdb
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\MovieProject.Server.Views.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\MovieProject.Server.Views.pdb
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\AutoMapper.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Azure.Core.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Azure.Storage.Blobs.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Azure.Storage.Common.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Humanizer.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Forms.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Web.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Microsoft.JSInterop.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Microsoft.JSInterop.WebAssembly.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\System.IO.Pipelines.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\System.Memory.Data.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\MovieProject.Client.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\MovieProject.Shared.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\MovieProject.Client.pdb
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\bin\Debug\net5.0\MovieProject.Shared.pdb
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\obj\Debug\net5.0\staticwebassets\MovieProject.Server.StaticWebAssets.Manifest.cache
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\obj\Debug\net5.0\staticwebassets\MovieProject.Server.StaticWebAssets.xml
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\obj\Debug\net5.0\scopedcss\bundle\MovieProject.Server.styles.css
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.TagHelpers.input.cache
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.TagHelpers.output.cache
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.RazorCoreGenerate.cache
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.RazorTargetAssemblyInfo.cache
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.RazorTargetAssemblyInfo.cs
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.Views.pdb
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.csproj.CopyComplete
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Server\obj\Debug\net5.0\MovieProject.Server.genruntimeconfig.cache

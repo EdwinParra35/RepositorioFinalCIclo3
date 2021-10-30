@@ -1,0 +1,114 @@
+@page "/movies/search"
+@using MovieProject.Client.Pages.Components
+@inject IServiceMovie movie
+<div class="jumbotron">
+        <div class="row mb-3">
+            <div class="col">
+                <div class="form-group mb-2">
+                    <label for="movie_name" class="sr-only">Nombre pelicula</label>
+                    <input type="text" @bind-value="movie_name" @bind-value:event="oninput"
+                        @onkeypress="@((KeyboardEventArgs e)=>MovieNameKeyPress(e))" class="form-control"
+                        id="movie_name" placeholder="Buscar pelicula" />
+                </div>
+            </div>
+
+            <div class="col">
+                <div class="form-group mb-2">
+                    <select class="form-control" @bind="categorySelected">
+                        <option value="0">Seleccione una categoría</option>
+                        @foreach (var item in categories)
+                        {
+                            <option value="@item.Id">@item.Name</option>
+                        }
+                    </select>
+                </div>
+            </div>
+        </div>
+    <div class="row mb-3 justify-content-md-center">
+        <div class="col">
+            <div class="input-group mb-3">
+                <div class="input-group-prepend">
+                    <div class="input-group-text mb-3">
+                        <input type="checkbox" aria-label="Checkbox for following text input" id="estrenos"
+                            @bind="futurosEstrenos">
+                        <label class="form-check-label" for="estrenos"><small>Futuros estrenos</small></label>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="input-group mb-3">
+                <div class="input-group-prepend">
+                    <div class="input-group-text">
+                        <input type="checkbox" aria-label="Checkbox for following text input" id="cartelera"
+                            @bind="enCartelera">
+                        <label class="form-check-label" for="cartelera"><small>En cartelera</small></label>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="input-group mb-3">
+                <div class="input-group-prepend">
+                    <div class="input-group-text">
+                        <input type="checkbox" aria-label="Checkbox for following text input" id="mejor_calificadas"
+                            @bind="mejorCalificadas">
+                        <label class="form-check-label" for="mejor_calificadas"><small>Mejor calificadas</small></label>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <button type="button" class="btn btn-primary mb-2 btn-sm" @onclick="CargarNuevasPeliculas">
+        Buscar
+    </button>
+
+    <button type="button" class="btn btn-secondary mb-2 btn-sm" @onclick="LimpiarCampos">
+        Limpiar campos
+    </button>
+</div>
+<CardMoviesComponent Movies="Movies"></CardMoviesComponent>
+
+@code {
+    private List<Movie> Movies;
+    string movie_name = "";
+    string categorySelected = "";
+    private bool futurosEstrenos = false;
+    private bool enCartelera = false;
+    private bool mejorCalificadas = false;
+
+    protected override void OnInitialized()
+    {
+        Movies = movie.GetMovies();
+    }
+
+    private List<Category> categories = new List<Category>();
+    private void MovieNameKeyPress(KeyboardEventArgs e)
+    {
+        if (e.Key == "Enter")
+        {
+            CargarNuevasPeliculas();
+        }
+    }
+    private void CargarNuevasPeliculas()
+    {
+        Movies = movie.GetMovies().Where(x => x.Moviename.ToLower().Contains(movie_name.ToLower())).ToList();
+        Console.WriteLine($"Nombre pelicula: {movie_name}");
+        Console.WriteLine($"Categoría seleccionada: {categorySelected}");
+        Console.WriteLine($"En cartelera {enCartelera}");
+        Console.WriteLine($"Futuros estrenos: {futurosEstrenos}");
+        Console.WriteLine($"Mejor calificada: {mejorCalificadas}");
+    }
+
+    private void LimpiarCampos()
+    {
+        Movies = movie.GetMovies();
+        movie_name = "";
+        categorySelected = "0";
+        futurosEstrenos = false;
+        enCartelera = false;
+        mejorCalificadas = false;
+    }
+}

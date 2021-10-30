@@ -1,0 +1,48 @@
+C:\ProysCicloIII\MovieProject\Shared\bin\Debug\net5.0\MovieProject.Shared.deps.json
+C:\ProysCicloIII\MovieProject\Shared\bin\Debug\net5.0\MovieProject.Shared.dll
+C:\ProysCicloIII\MovieProject\Shared\bin\Debug\net5.0\ref\MovieProject.Shared.dll
+C:\ProysCicloIII\MovieProject\Shared\bin\Debug\net5.0\MovieProject.Shared.pdb
+C:\ProysCicloIII\MovieProject\Shared\obj\Debug\net5.0\MovieProject.Shared.csproj.AssemblyReference.cache
+C:\ProysCicloIII\MovieProject\Shared\obj\Debug\net5.0\MovieProject.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProysCicloIII\MovieProject\Shared\obj\Debug\net5.0\MovieProject.Shared.AssemblyInfoInputs.cache
+C:\ProysCicloIII\MovieProject\Shared\obj\Debug\net5.0\MovieProject.Shared.AssemblyInfo.cs
+C:\ProysCicloIII\MovieProject\Shared\obj\Debug\net5.0\MovieProject.Shared.csproj.CoreCompileInputs.cache
+C:\ProysCicloIII\MovieProject\Shared\obj\Debug\net5.0\MovieProject.Shared.dll
+C:\ProysCicloIII\MovieProject\Shared\obj\Debug\net5.0\ref\MovieProject.Shared.dll
+C:\ProysCicloIII\MovieProject\Shared\obj\Debug\net5.0\MovieProject.Shared.pdb
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Shared\bin\Debug\net5.0\MovieProject.Shared.deps.json
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Shared\bin\Debug\net5.0\MovieProject.Shared.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Shared\bin\Debug\net5.0\ref\MovieProject.Shared.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Shared\bin\Debug\net5.0\MovieProject.Shared.pdb
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Shared\obj\Debug\net5.0\MovieProject.Shared.csproj.AssemblyReference.cache
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Shared\obj\Debug\net5.0\MovieProject.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Shared\obj\Debug\net5.0\MovieProject.Shared.AssemblyInfoInputs.cache
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Shared\obj\Debug\net5.0\MovieProject.Shared.AssemblyInfo.cs
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Shared\obj\Debug\net5.0\MovieProject.Shared.csproj.CoreCompileInputs.cache
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Shared\obj\Debug\net5.0\MovieProject.Shared.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Shared\obj\Debug\net5.0\ref\MovieProject.Shared.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint IV\Codigo Fuente Proyecto\MovieProject\Shared\obj\Debug\net5.0\MovieProject.Shared.pdb
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Shared\bin\Debug\net5.0\MovieProject.Shared.deps.json
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Shared\bin\Debug\net5.0\MovieProject.Shared.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Shared\bin\Debug\net5.0\ref\MovieProject.Shared.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Shared\bin\Debug\net5.0\MovieProject.Shared.pdb
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Shared\obj\Debug\net5.0\MovieProject.Shared.csproj.AssemblyReference.cache
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Shared\obj\Debug\net5.0\MovieProject.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Shared\obj\Debug\net5.0\MovieProject.Shared.AssemblyInfoInputs.cache
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Shared\obj\Debug\net5.0\MovieProject.Shared.AssemblyInfo.cs
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Shared\obj\Debug\net5.0\MovieProject.Shared.csproj.CoreCompileInputs.cache
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Shared\obj\Debug\net5.0\MovieProject.Shared.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Shared\obj\Debug\net5.0\ref\MovieProject.Shared.dll
+C:\ProysCicloIII\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Shared\obj\Debug\net5.0\MovieProject.Shared.pdb
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Shared\bin\Debug\net5.0\MovieProject.Shared.deps.json
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Shared\bin\Debug\net5.0\MovieProject.Shared.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Shared\bin\Debug\net5.0\ref\MovieProject.Shared.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Shared\bin\Debug\net5.0\MovieProject.Shared.pdb
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Shared\obj\Debug\net5.0\MovieProject.Shared.csproj.AssemblyReference.cache
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Shared\obj\Debug\net5.0\MovieProject.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Shared\obj\Debug\net5.0\MovieProject.Shared.AssemblyInfoInputs.cache
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Shared\obj\Debug\net5.0\MovieProject.Shared.AssemblyInfo.cs
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Shared\obj\Debug\net5.0\MovieProject.Shared.csproj.CoreCompileInputs.cache
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Shared\obj\Debug\net5.0\MovieProject.Shared.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Shared\obj\Debug\net5.0\ref\MovieProject.Shared.dll
+E:\MisticCiclo3DesarrolloSoftwre\Sprint_V\MinTIC_g02_TicDigitalG8\Sprint V\Codigo Fuente\MovieProject\Shared\obj\Debug\net5.0\MovieProject.Shared.pdb

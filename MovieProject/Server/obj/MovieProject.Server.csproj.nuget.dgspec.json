@@ -1,0 +1,250 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\MisticCiclo3DesarrolloSoftwre\\Sprint_V\\MinTIC_g02_TicDigitalG8\\Sprint V\\Codigo Fuente\\MovieProject\\Server\\MovieProject.Server.csproj": {}
+  },
+  "projects": {
+    "E:\\MisticCiclo3DesarrolloSoftwre\\Sprint_V\\MinTIC_g02_TicDigitalG8\\Sprint V\\Codigo Fuente\\MovieProject\\Client\\MovieProject.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\MisticCiclo3DesarrolloSoftwre\\Sprint_V\\MinTIC_g02_TicDigitalG8\\Sprint V\\Codigo Fuente\\MovieProject\\Client\\MovieProject.Client.csproj",
+        "projectName": "MovieProject.Client",
+        "projectPath": "E:\\MisticCiclo3DesarrolloSoftwre\\Sprint_V\\MinTIC_g02_TicDigitalG8\\Sprint V\\Codigo Fuente\\MovieProject\\Client\\MovieProject.Client.csproj",
+        "packagesPath": "C:\\Users\\FAMILIAPARRA\\.nuget\\packages\\",
+        "outputPath": "E:\\MisticCiclo3DesarrolloSoftwre\\Sprint_V\\MinTIC_g02_TicDigitalG8\\Sprint V\\Codigo Fuente\\MovieProject\\Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\FAMILIAPARRA\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\MisticCiclo3DesarrolloSoftwre\\Sprint_V\\MinTIC_g02_TicDigitalG8\\Sprint V\\Codigo Fuente\\MovieProject\\Shared\\MovieProject.Shared.csproj": {
+                "projectPath": "E:\\MisticCiclo3DesarrolloSoftwre\\Sprint_V\\MinTIC_g02_TicDigitalG8\\Sprint V\\Codigo Fuente\\MovieProject\\Shared\\MovieProject.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "System.Net.Http.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.browser-wasm",
+              "version": "[5.0.9, 5.0.9]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
+        }
+      }
+    },
+    "E:\\MisticCiclo3DesarrolloSoftwre\\Sprint_V\\MinTIC_g02_TicDigitalG8\\Sprint V\\Codigo Fuente\\MovieProject\\Server\\MovieProject.Server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\MisticCiclo3DesarrolloSoftwre\\Sprint_V\\MinTIC_g02_TicDigitalG8\\Sprint V\\Codigo Fuente\\MovieProject\\Server\\MovieProject.Server.csproj",
+        "projectName": "MovieProject.Server",
+        "projectPath": "E:\\MisticCiclo3DesarrolloSoftwre\\Sprint_V\\MinTIC_g02_TicDigitalG8\\Sprint V\\Codigo Fuente\\MovieProject\\Server\\MovieProject.Server.csproj",
+        "packagesPath": "C:\\Users\\FAMILIAPARRA\\.nuget\\packages\\",
+        "outputPath": "E:\\MisticCiclo3DesarrolloSoftwre\\Sprint_V\\MinTIC_g02_TicDigitalG8\\Sprint V\\Codigo Fuente\\MovieProject\\Server\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\FAMILIAPARRA\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\MisticCiclo3DesarrolloSoftwre\\Sprint_V\\MinTIC_g02_TicDigitalG8\\Sprint V\\Codigo Fuente\\MovieProject\\Client\\MovieProject.Client.csproj": {
+                "projectPath": "E:\\MisticCiclo3DesarrolloSoftwre\\Sprint_V\\MinTIC_g02_TicDigitalG8\\Sprint V\\Codigo Fuente\\MovieProject\\Client\\MovieProject.Client.csproj"
+              },
+              "E:\\MisticCiclo3DesarrolloSoftwre\\Sprint_V\\MinTIC_g02_TicDigitalG8\\Sprint V\\Codigo Fuente\\MovieProject\\Shared\\MovieProject.Shared.csproj": {
+                "projectPath": "E:\\MisticCiclo3DesarrolloSoftwre\\Sprint_V\\MinTIC_g02_TicDigitalG8\\Sprint V\\Codigo Fuente\\MovieProject\\Shared\\MovieProject.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Azure.Storage.Blobs": {
+              "target": "Package",
+              "version": "[12.10.0, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.Server": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "System.Linq.Queryable": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\MisticCiclo3DesarrolloSoftwre\\Sprint_V\\MinTIC_g02_TicDigitalG8\\Sprint V\\Codigo Fuente\\MovieProject\\Shared\\MovieProject.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\MisticCiclo3DesarrolloSoftwre\\Sprint_V\\MinTIC_g02_TicDigitalG8\\Sprint V\\Codigo Fuente\\MovieProject\\Shared\\MovieProject.Shared.csproj",
+        "projectName": "MovieProject.Shared",
+        "projectPath": "E:\\MisticCiclo3DesarrolloSoftwre\\Sprint_V\\MinTIC_g02_TicDigitalG8\\Sprint V\\Codigo Fuente\\MovieProject\\Shared\\MovieProject.Shared.csproj",
+        "packagesPath": "C:\\Users\\FAMILIAPARRA\\.nuget\\packages\\",
+        "outputPath": "E:\\MisticCiclo3DesarrolloSoftwre\\Sprint_V\\MinTIC_g02_TicDigitalG8\\Sprint V\\Codigo Fuente\\MovieProject\\Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\FAMILIAPARRA\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

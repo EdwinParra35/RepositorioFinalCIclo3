@@ -1,0 +1,53 @@
+@page "/Actors/search"
+@using MovieProject.Client.Pages.Components
+@inject IServiceActor actor
+
+<div class="jumbotron">
+    <div class="row mb-3">
+        <div class="col">
+            <div class="form-group mb-2">
+                <label for="actor_name" class="sr-only">Nombre del Actor</label>
+                <input type="text" @bind-value="actor_name" @bind-value:event="oninput"
+                    @onkeypress="@((KeyboardEventArgs e)=>ActorNameKeyPress(e))" class="form-control" id="actor_name"
+                    placeholder="Buscar Actor" />
+            </div>
+        </div>
+    </div>
+    <button type="button" class="btn btn-primary mb-2 btn-sm" @onclick="CargarNuevosActors">
+        Buscar
+    </button>
+
+    <button type="button" class="btn btn-secondary mb-2 btn-sm" @onclick="LimpiarCampos">
+        Limpiar campos
+    </button>
+</div>
+<CardActorsComponent Actors="Actors"></CardActorsComponent>
+
+@code{
+    private List<Actor> Actors;
+    string actor_name = "";
+
+    protected override void OnInitialized()
+    {
+        Actors = actor.GetActors();
+    }
+    private void ActorNameKeyPress(KeyboardEventArgs e)
+    {
+        if (e.Key == "Enter")
+        {
+            CargarNuevosActors();
+        }
+    }
+    private void CargarNuevosActors()
+    {
+        Actors = actor.GetActors().Where(x => x.ActorName.ToLower().Contains(actor_name.ToLower())).ToList();
+        Console.WriteLine($"Nombre Actor: {actor_name}");
+        
+    }
+
+    private void LimpiarCampos()
+    {
+        Actors = actor.GetActors();
+        actor_name = "";
+    }
+}
